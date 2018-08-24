@@ -1,0 +1,43 @@
+﻿body {
+    height: 100%;
+    width: auto;
+    padding: 0;
+    margin: 0;
+}
+
+#full-screen-background-image {
+    z-index: 0;
+    width: auto;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+#fondo {
+    position: relative;
+}
+
+.horizontal {
+    display: flex;
+    justify-content: center;
+}
+
+.divcentrar {
+    height: 100%;
+}
+
+.sobre {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: none;
+}
+
+.vertical {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

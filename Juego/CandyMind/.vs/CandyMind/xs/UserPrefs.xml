@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{20A86095-C67B-4486-A5BD-7367ACF8B04F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="juego.html">
+    <Files>
+      <File FileName="index.html" Line="1" Column="1" />
+      <File FileName="instrucciones.html" Line="1" Column="1" />
+      <File FileName="juego.html" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CandyMind PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
