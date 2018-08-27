@@ -24,6 +24,12 @@ var mainState = {
     var spaceKey = game.input.keyboard.addKey(Phaser.Keyboard.SPACEBAR);
     spaceKey.onDown.add(this.jump, this);
 
+    var mouseKey = game.input.activePointer.leftButton;
+    mouseKey.onDown.add(this.jump, this);
+
+    game.input.onDown.add(this.jump, this);
+
+
     this.pipes = game.add.group();
 
     this.timer = game.time.events.loop(1500, this.addRowOfPipes, this);
