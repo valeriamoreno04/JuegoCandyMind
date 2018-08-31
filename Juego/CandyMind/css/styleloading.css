@@ -1,0 +1,22 @@
+﻿body {
+    height: 100%;
+    width: auto;
+    padding: 0;
+    margin: 0;
+}
+
+#full-screen-background-image {
+    z-index: 0;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+#gif{
+   max-height:100%;
+   max-width:100%; 
+}

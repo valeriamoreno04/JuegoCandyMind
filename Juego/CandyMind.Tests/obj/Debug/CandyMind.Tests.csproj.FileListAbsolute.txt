@@ -1,0 +1,10 @@
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/bin/Debug/CandyMind.Tests.dll
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/bin/Debug/CandyMind.Tests.pdb
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/bin/Debug/CandyMind.dll
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/bin/Debug/nunit.framework.dll
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/bin/Debug/CandyMind.pdb
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/bin/Debug/nunit.framework.xml
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/obj/Debug/CandyMind.Tests.csprojResolveAssemblyReference.cache
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/obj/Debug/CandyMind.Tests.csproj.CoreCompileInputs.cache
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/obj/Debug/CandyMind.Tests.dll
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind.Tests/obj/Debug/CandyMind.Tests.pdb

@@ -1,0 +1,6 @@
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind/bin/CandyMind.dll
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind/bin/CandyMind.pdb
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind/obj/Debug/CandyMind.csprojResolveAssemblyReference.cache
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind/obj/Debug/CandyMind.csproj.CoreCompileInputs.cache
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind/obj/Debug/CandyMind.dll
+/Users/valeriamorenozapata/Projects/CandyMind/CandyMind/obj/Debug/CandyMind.pdb
